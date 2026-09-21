@@ -1,0 +1,23 @@
+{
+    "id": 7,
+    "name": "Yiseiri Yanua Satizabal Ortiz",
+    "lat": 3.2655243,
+    "lng": -76.5451363,
+    "color": "#E02904",
+    "photo": "https://pin.it/6pu7bZaXb",
+    "likes": ["novelas sobrenaturales", "Comer", "Caminar", "Escuchar musica"],
+    "dislikes": ["Pastel de maiz", "Correr", "Alcohol"],
+    "socialMedia": "yiseiri.satizabal@correounivalle.com",
+    "quote": "Si estas tan seguro, entonces quema el barco.",
+    "funFact": "99% de las veces, lo que cocina le da daño estomacal a su familia",
+    "vibe": "Raton de obras sobrenaturales certificado",
+    "superpower": "Tomar 7 tazas de café diariamente y no tener problemas estomacales(aun)",
+    "topLike": { "name": "Novelas ", "rating": 5},
+    "favoriteTool": { "name": "python", "icon": "fa-brands fa-python" },
+    "song": { "title": "Here Come The Cats", "artist": "waitress", "url": "https://youtu.be/PCM-7LyNxtk?si=WLi14ioSIHBsVVf0" },
+    "topSpots": [
+        "Casa",
+        "Parque Cani Sachamate",
+        "Heladeria Rincon Dulce"
+    ]
+}
