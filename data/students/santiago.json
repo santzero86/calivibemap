@@ -13,7 +13,7 @@
     "vibe": "NPC.",
     "superpower": "Procrastinar con eficiencia.",
     "topLike": { "name": "Hajime no Ippo", "rating": 10 },
-    "favoriteTool": { "name": "winrar" },
+    "favoriteTool": { "name": "winrar", "icon": "fa-solid fa-file-zipper" },
     "song": { "title": "Slow it down", "artist": "Benson Boone", "url": "https://open.spotify.com/intl-es/track/1j2iMeSWdsEP5ITCrZqbIL" },
     "topSpots": [
         "Mi casa",
