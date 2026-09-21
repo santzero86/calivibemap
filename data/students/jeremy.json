@@ -1,0 +1,23 @@
+{
+    "id": 9,
+    "name": "Jeremy Astaiza",
+    "lat": 3.375100,
+    "lng": -76.548471,
+    "color": "#2B33CF",
+    "photo": "https://instagram.fclo16-1.fna.fbcdn.net/v/t51.82787-19/590422922_18062634725553321_7884840367571201368_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oEEaTksc_rUQ7kNvwEQSce6&_nc_oc=AdqIR3gh_dR1dPDbOoNfMzkzlPNGCMwyfDKoY2_5N3dlE3oNLzLbXvcsR-3FvtUvSYg&_nc_zt=24&_nc_ht=instagram.fclo16-1.fna&_nc_gid=xMr9VcmKyy40TGDOty3Saw&_nc_ss=7baaf&oh=00_AQIyYE6pnWcy_7dn7DcPAGcpxLj7wTTGrY32TAD_JzgXxA&oe=6AB76E47",
+    "likes": ["Ajedrez", "Música", "Crispetas", "Finanzas"],
+    "dislikes": ["El calor", "Irrespeto", "Desorden"],
+    "socialMedia": "@and.res1",
+    "quote": "La práctica hace al maestro.",
+    "funFact": "Revisa tus finanzas y mantén el enfoque.",
+    "vibe": "Optimista, calmado y empático.",
+    "superpower": "Dar orden a los lugares de manera muy rápida.",
+    "topLike": { "name": "Bailar", "rating": 5 },
+    "favoriteTool": { "name": "React.js", "icon": "fa-brands fa-react" },
+    "song": { "title": "Toxicity", "artist": "System Of A Down", "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn?si=75d56791d8ed4ac8" },
+    "topSpots": [
+        "La Loma de la Cruz",
+        "La Alameda",
+        "El parque de los cholados"
+    ]
+}

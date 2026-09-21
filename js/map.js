@@ -127,9 +127,11 @@ async function initMap() {
 }
 
 const ICON_MAP = {
+        'ajedrez': 'fa-chess',
     'hamburguesas': 'fa-burger',
     'arepas': 'fa-cookie',
     'pizza': 'fa-pizza-slice',
+    'música': 'fa-music',
     'salsa': 'fa-music',
     'café': 'fa-mug-hot',
     'ciclismo': 'fa-bicycle',
@@ -138,6 +140,7 @@ const ICON_MAP = {
     'perros': 'fa-dog',
     'gaming': 'fa-gamepad',
     'fotografía': 'fa-camera',
+    'finanzas': 'fa-chart-line',
     'naturaleza': 'fa-tree',
     'yoga': 'fa-person-praying',
     'ux design': 'fa-pen-ruler',
