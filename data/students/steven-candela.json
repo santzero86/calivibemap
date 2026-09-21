@@ -1,0 +1,23 @@
+{
+    "id": 7,
+    "name": "Steven Candela",
+    "lat": 3.387519552218557,
+    "lng": -76.54565791282418,
+    "color": "#851500",
+    "photo": "https://randomuser.me/api/portraits/men/75.jpg",
+    "likes": ["Programación", "Liderar", "Finanzas", "Aprender", "Pizza con Piña"],
+    "dislikes": ["La yuca asada", "El vallenato"],
+    "socialMedia": "@_steven_candela_",
+    "quote": "No es que tengamos poco tiempo, es que perdemos mucho",
+    "funFact": "A veces hablo con mi perro y me responde",
+    "vibe": "Si las mujeres de Francia son francesas y las de Inglaterra son inglesas, ¿cómo se les llama a las mujeres de Hamburgo?",
+    "superpower": "Paciencia sobrenatural",
+    "topLike": { "name": "The Office (USA)", "rating": 5 },
+    "favoriteTool": { "name": "Obsidian", "icon": "fa-solid fa-note-sticky" },
+    "song": { "title": "El Malo de la Pelicula", "artist": "Alcolirykoz, Polimnia", "url": "https://open.spotify.com/track/3egoacsGKBZhKp2ytmW4dO?si=cdeadd003c1e4bfe" },
+    "topSpots": [
+        "Las Vegas - KM 18",
+        "San Antonio",
+        "Univalle"
+    ]
+}
