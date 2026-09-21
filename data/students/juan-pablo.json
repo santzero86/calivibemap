@@ -1,0 +1,23 @@
+{
+    "id": 5,
+    "name": "Juan Pablo Escamilla",
+    "lat": 3.424229797208418,
+    "lng": -76.52911254839145,
+    "color": "#0055ff",
+    "photo": "https://i.imgur.com/699hqVm.png",
+    "likes": ["Cafe", "Gym", "Gatos"],
+    "dislikes": ["Alcohol", "Calor"],
+    "socialMedia": "@jpeskmilla",
+    "quote": "A veces el código funciona al primer intento y me asusto",
+    "funFact": "Puedo recordar letras de canciones de hace 10 años pero no dónde dejé las llaves",
+    "vibe": "Enfocado, analítico y amante de las buenas conversaciones",
+    "superpower": "Encontrar el mejor lugar de café en cualquier ciudad en tiempo récord.",
+    "topLike": { "name": "Música en Vivo", "rating": 5 },
+    "favoriteTool": { "name": "Go", "icon": "fa-brands fa-golang" },
+    "song": { "title": "Ussewa", "artist": "Ado", "url": "https://open.spotify.com/track/6EzZn96uOc9JsVGNRpx06n?si=74d4de70e8cd42c1" },
+    "topSpots": [
+        "Casa",
+        "Unicentro",
+        "Parque El Ingenio"
+    ]
+}

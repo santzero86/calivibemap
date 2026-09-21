@@ -1,0 +1,23 @@
+{
+    "id": 4,
+    "name": "Nicolle Paz",
+    "lat": 3.422165,
+    "lng": -76.516389,
+    "color": "#FF6B9D",
+    "photo": "https://randomuser.me/api/portraits/women/70.jpg",
+    "likes": ["Salchipapa", "Gym", "Perros", "Salsa"],
+    "dislikes": ["Hígado", "Salsa de Piña"],
+    "socialMedia": "@nicollee_p16",
+    "quote": "No sé lo que hago, pero ya le voy cogiendo el ritmo.",
+    "funFact": "Mi productividad tiene una relación sospechosa con el café.",
+    "vibe": "Tranquila, alegre y un poquito reservada al principio.",
+    "superpower": "Sobrevivir en la U con 3 horas de sueño.",
+    "topLike": { "name": "Atardeceres", "rating": 5 },
+    "favoriteTool": { "name": "Python", "icon": "fa-brands fa-python" },
+    "song": { "title": "Oh Qué Será?", "artist": "Willie Colón", "url": "https://open.spotify.com/intl-es/track/2n1MTLCis6qPSDKdr5XSDI?si=4d48bb8aeec642f5" },
+    "topSpots": [
+        "Cerro de las Tres Cruces - vistas de Cali",
+        "Cristo Rey - atardecer desde la cima",
+        "Río Pance - domingos en familia"
+    ]
+}
