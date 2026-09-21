@@ -2,9 +2,17 @@
     "valentina.json",
     "juan.json",
     "mariana.json",
+<<<<<<< HEAD
     "yiseiri.json"
     "nicolle.json",
     "juan-pablo.json",
     "santiago.json",
     "steven-candela.json"
+=======
+    "nicolle.json",
+    "juan-pablo.json",
+    "santiago.json",
+    "steven-candela.json",
+    "yiseiri.json"
+>>>>>>> ff6a789982f2ffe661f3f843678ec9eb3f0ae1d3
 ]
