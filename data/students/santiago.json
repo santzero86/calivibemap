@@ -1,0 +1,23 @@
+{
+    "id": 6,
+    "name": "Santiago Guerrero",
+    "lat": 3.4358681362424055,
+    "lng": -76.54554433068178,
+    "color": "#F52727",
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": ["dormir", "apostar", "comer", "jugar videojuegos"],
+    "dislikes": ["perder plata", "perder tiempo"],
+    "socialMedia": "@santzero86",
+    "quote": "xd",
+    "funFact": "No sé qué hacer con mi vida.",
+    "vibe": "NPC.",
+    "superpower": "Procrastinar con eficiencia.",
+    "topLike": { "name": "Hajime no Ippo", "rating": 10 },
+    "favoriteTool": { "name": "winrar", "icon": "fa-solid fa-file-zipper" },
+    "song": { "title": "Slow it down", "artist": "Benson Boone", "url": "https://open.spotify.com/intl-es/track/1j2iMeSWdsEP5ITCrZqbIL" },
+    "topSpots": [
+        "Mi casa",
+        "Mi cuarto",
+        "Mi cama"
+    ]
+}
